@@ -1,0 +1,14 @@
+{
+  "name": "node-multistage-demo",
+  "version": "1.0.0",
+  "description": "Minimal Node.js app for multi-stage Docker build demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

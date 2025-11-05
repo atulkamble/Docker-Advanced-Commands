@@ -1,0 +1,28 @@
+# Node
+node_modules
+npm-debug.log*
+
+# Python
+__pycache__
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+
+# General
+.git
+.gitignore
+Dockerfile*
+*.swp
+*.swo
+*~
+.dockerignore
+.env
+*.env
+coverage/
+dist/
+build/
+.cache/
+.idea/
+.vscode/
